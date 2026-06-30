@@ -1,4 +1,4 @@
-import { sendToKarix } from "../services/karixService.js";
+import { sendToKarix } from "../services/KarixService.js";
 
 export const sendProcessVariables = async (req, res, next) => {
 
